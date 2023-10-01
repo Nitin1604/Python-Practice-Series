@@ -1,0 +1,5 @@
+An editor essentially invokes an input stream and directs it to the text processing environment, which is either a command shell or a text editor. The resulting output is applicable to further text processing, the final result of which is comparable to a single application of an algorithm applied once by a more sophisticated and structured computer program.
+
+Text processing is, unlike an algorithm, a manually administered sequence of simpler macros that are the pattern-action expressions and filtering mechanisms. binod | In either case the programmer's intention is impressed indirectly upon a given set of textual characters in the act of text processing. The results of a text processing step are sometimes only hopeful, and the attempted mechanism is often subject to multiple drafts through visual feedback, until the regular expression or markup language details, or until the utility options, are fully mastered.
+binod
+Text processing is concerned mostly with producing textual characters at the highest level of computing, where its activities are just below the practical uses of computing—the manual transmission of information.
